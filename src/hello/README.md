@@ -7,7 +7,7 @@ A hello world feature
 
 ```json
 "features": {
-    "ghcr.io/devcontainers-community/features-starter/hello:1": {}
+    "ghcr.io/Blaze420420/reimagined-octo-invention/hello:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ A hello world feature
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers-community/features-starter/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Blaze420420/reimagined-octo-invention/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
